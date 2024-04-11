@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 38bb6fe635aa1e0468ae566b55b38c4a, type: 3}
+  m_Name: Zombie
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 1193859494025739650, guid: b4a8a484038669a4ea96f4992dd7eb39, type: 3}
+  health: 50
+  speed: 1
+  damage: 20
+  HelathCanvas: {fileID: 1620166664431979915, guid: 0d5f13a1310c7464a891c49ecfcf52ab, type: 3}

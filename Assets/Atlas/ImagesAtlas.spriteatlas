@@ -1,0 +1,160 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ImagesAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 1024
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: fd94566c9bece384483612b1821e8fd0, type: 3}
+    - {fileID: 102900000, guid: 2cf55ed963ef68a47b767744e5283509, type: 3}
+    - {fileID: 102900000, guid: 53486232284812b4497b507ac1a644d9, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 54da454067b74ca4190f6db7effb6b98, type: 3}
+  - {fileID: 21300000, guid: f2d6b09071e111c479d39850131eff4a, type: 3}
+  - {fileID: 21300000, guid: d811afb0d42fed140806f31df436fbda, type: 3}
+  - {fileID: 21300000, guid: 25c2a3f0b6bbd5e438f53bf9aa8b4c74, type: 3}
+  - {fileID: 21300000, guid: 0e06a0418c1fb7a4abedb03ea9c66359, type: 3}
+  - {fileID: 21300000, guid: c58d46413b8b7a04599d13a9efa9fd28, type: 3}
+  - {fileID: 21300000, guid: c989a651c9dcc4e4a9ebdbc5b405b857, type: 3}
+  - {fileID: 21300000, guid: 6165d591b338c5a4da7f4cd569a2ff6c, type: 3}
+  - {fileID: 21300000, guid: 3328bf91cf94ace47a814d76b400e242, type: 3}
+  - {fileID: 21300000, guid: 3ed7b6c11b302ca40b9f6eb3efb1b10a, type: 3}
+  - {fileID: 21300000, guid: 1aa8d4e1c6a8e934595f9ab61f2bf8aa, type: 3}
+  - {fileID: 21300000, guid: 4cef83b301511e047a3c742898d0ad01, type: 3}
+  - {fileID: 21300000, guid: 1b4696d341b6ec443b4e499361de0675, type: 3}
+  - {fileID: 21300000, guid: e5ff1315805f334479e0a0f7bc7c2a93, type: 3}
+  - {fileID: 21300000, guid: d0ff1c25705064044b8326076fdaed4a, type: 3}
+  - {fileID: 21300000, guid: 06393f55281ef1b46b0e482898be755d, type: 3}
+  - {fileID: 21300000, guid: 73d730a5835fa8b4c8254c436d5a947c, type: 3}
+  - {fileID: 21300000, guid: 59e3b6c543eb15045a53b9c0c8e2cf1d, type: 3}
+  - {fileID: 21300000, guid: d37b241777c429542a0fb4136adf198a, type: 3}
+  - {fileID: 21300000, guid: d35a1fc72dc17624db51985e3c9dd519, type: 3}
+  - {fileID: 21300000, guid: 3e85cdf74e325fa40a2c9e688dc51325, type: 3}
+  - {fileID: 21300000, guid: 19d6bde8b5d10cf4f89c3d6ac3e35a8f, type: 3}
+  - {fileID: 21300000, guid: 6b3badf858946274491be1edb1bab6e0, type: 3}
+  - {fileID: 21300000, guid: 0ca61909c551cd74c9fab1497f90db5a, type: 3}
+  - {fileID: 21300000, guid: c8f26ac9fdab6b74b922d0cfbf37c95c, type: 3}
+  - {fileID: 21300000, guid: d23bae0a14449f64583e31a8c9f388b7, type: 3}
+  - {fileID: 21300000, guid: a161155aa99289c41ac4e61aa6122189, type: 3}
+  - {fileID: 21300000, guid: fc80a5cabb7adc046ababb3138e0da32, type: 3}
+  - {fileID: 21300000, guid: 160fc9fa1ff9f22429b58a4802136b26, type: 3}
+  - {fileID: 21300000, guid: 2ba6b8eb1e841014e80780e402120188, type: 3}
+  - {fileID: -4436161977106058220, guid: 31a01debfefe1c741bd795943eb90eb8, type: 3}
+  - {fileID: 2004682317781361897, guid: 31a01debfefe1c741bd795943eb90eb8, type: 3}
+  - {fileID: 7117401074472609237, guid: 31a01debfefe1c741bd795943eb90eb8, type: 3}
+  - {fileID: -9077934328391064956, guid: 31a01debfefe1c741bd795943eb90eb8, type: 3}
+  - {fileID: -4031785122171737557, guid: 31a01debfefe1c741bd795943eb90eb8, type: 3}
+  - {fileID: 21300000, guid: 6532bc2c52f179142a7333cc0f5faeda, type: 3}
+  - {fileID: 21300000, guid: 93bce68c22ba2ed4592b0338ae2ac8fd, type: 3}
+  - {fileID: 21300000, guid: 442fe9fca83525949b065b4f11cb28a6, type: 3}
+  - {fileID: 21300000, guid: 2c8cf16db947f774ab9c0eea6a30018f, type: 3}
+  - {fileID: 21300000, guid: a150c42e40088ad48a396b8e3d0a9df0, type: 3}
+  - {fileID: 21300000, guid: 8afbd92e0551bc14aba6fa39685a8244, type: 3}
+  - {fileID: 21300000, guid: 7e8aa38e1fe5c1243a9b498171835b72, type: 3}
+  - {fileID: 21300000, guid: d45f0cae013abb84688afe6e4bc52845, type: 3}
+  - {fileID: 21300000, guid: be4bb9be56bd25441b22959b583ebacb, type: 3}
+  - {fileID: 21300000, guid: 12bfd74fdce9b7944abbc2e8d031a423, type: 3}
+  - {fileID: 21300000, guid: fca7a99f7a209104ba40f9df8bb885a9, type: 3}
+  - {fileID: 21300000, guid: 690cf6bf913f1464b9a065505d037b52, type: 3}
+  - {fileID: -9148595311541827109, guid: eb12f7bfac0d77046905ee79ff5c9e44, type: 3}
+  - {fileID: 5945939484006371963, guid: eb12f7bfac0d77046905ee79ff5c9e44, type: 3}
+  - {fileID: 8468823292800697166, guid: eb12f7bfac0d77046905ee79ff5c9e44, type: 3}
+  - {fileID: 21300000, guid: d4b6d6cf0f05f3249bc06eb6baa0ef87, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - "\u0422\u0443\u043B\u043E\u0432\u0438\u0449\u0435 1"
+  - "\u0413\u043E\u043B\u043E\u0432\u0430 2"
+  - BulletproofCloak
+  - BanditPants
+  - BulletproofCloakWrist
+  - "\u0420\u0443\u043A\u0430\u041B\u043E\u043A\u043E\u0442\u044C 6"
+  - "\u0422\u0443\u043B\u043E\u0432\u0438\u0449\u0435 6"
+  - "\u0422\u0443\u043B\u043E\u0432\u0438\u0449\u0435 2"
+  - "\u0413\u043E\u043B\u043E\u0432\u0430 4"
+  - "\u0420\u0443\u043A\u0430\u041B\u043E\u043A\u043E\u0442\u044C 1"
+  - MilitaryHelmet
+  - "\u0422\u0443\u043B\u043E\u0432\u0438\u0449\u0435 3"
+  - Makarov
+  - "\u0413\u043E\u043B\u043E\u0432\u0430 1"
+  - "\u0413\u043E\u043B\u043E\u0432\u0430 3"
+  - "\u041D\u043E\u0433\u0430 4"
+  - "\u0413\u043E\u043B\u043E\u0432\u0430 0"
+  - "\u041D\u043E\u0433\u0430 2"
+  - "\u041D\u043E\u0433\u0430 8"
+  - "\u0422\u0443\u043B\u043E\u0432\u0438\u0449\u0435 7"
+  - BulletproofCloakElbow
+  - "\u0422\u0443\u043B\u043E\u0432\u0438\u0449\u0435 9"
+  - "\u0420\u0443\u043A\u0430\u041B\u043E\u043A\u043E\u0442\u044C 4"
+  - "\u0422\u0443\u043B\u043E\u0432\u0438\u0449\u0435 0"
+  - "\u0413\u043E\u043B\u043E\u0432\u0430 5"
+  - "\u0413\u043E\u043B\u043E\u0432\u0430 6"
+  - "\u041D\u043E\u0433\u0430 6"
+  - "\u041D\u043E\u0433\u0430 1"
+  - "\u0420\u0443\u043A\u0430\u041B\u043E\u043A\u043E\u0442\u044C 5"
+  - "\u0422\u0443\u043B\u043E\u0432\u0438\u0449\u0435 5"
+  - "\u0417\u043E\u043C\u0431\u0438_2"
+  - "\u0417\u043E\u043C\u0431\u0438_3"
+  - "\u0417\u043E\u043C\u0431\u0438_0"
+  - "\u0417\u043E\u043C\u0431\u0438_1"
+  - "\u0417\u043E\u043C\u0431\u0438_4"
+  - AK-74
+  - SovietBag
+  - "\u0420\u0443\u043A\u0430\u041B\u043E\u043A\u043E\u0442\u044C 0"
+  - "\u0413\u043E\u043B\u043E\u0432\u0430 7"
+  - "\u041D\u043E\u0433\u0430 7"
+  - "\u041D\u043E\u0433\u0430 3"
+  - "\u0422\u0443\u043B\u043E\u0432\u0438\u0449\u0435 4"
+  - 5.45x39
+  - "\u0420\u0443\u043A\u0430\u041B\u043E\u043A\u043E\u0442\u044C 7"
+  - "\u041D\u043E\u0433\u0430 5"
+  - "\u041D\u043E\u0433\u0430 9"
+  - "\u0422\u0443\u043B\u043E\u0432\u0438\u0449\u0435 8"
+  - "\u041F\u043B\u043E\u0442\u044C_2"
+  - "\u041F\u043B\u043E\u0442\u044C_0"
+  - "\u041F\u043B\u043E\u0442\u044C_1"
+  - "\u041D\u043E\u0433\u0430 0"
+  m_RenderDataMap: {}
+  m_Tag: ImagesAtlas
+  m_IsVariant: 0

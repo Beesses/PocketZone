@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea9d2574b0d2b5f4289b6f102f292502, type: 3}
+  m_Name: Player
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 1511736465115382387, guid: f1796ce924078ed41ac46b2fc92106fb, type: 3}
+  health: 100
+  speed: 4
+  damage: 25
+  joystick: {fileID: -4761053995942555152, guid: 582eaa3c6c8d8094da1e7d0e16f72d4e, type: 3}
+  attack: {fileID: -970977816417300148, guid: 582eaa3c6c8d8094da1e7d0e16f72d4e, type: 3}
+  bulletCapacity: 6
+  HelathCanvas: {fileID: 1620166664431979915, guid: 0d5f13a1310c7464a891c49ecfcf52ab, type: 3}
